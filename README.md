@@ -6,7 +6,7 @@
 
 ##
 
-### ✨ [Demo](https://cenacrharsh.github.io/JS-30-Day-1/)
+### ✨ [Click for Demo](https://cenacrharsh.github.io/JS-30-Day-1/)
 
 ![alt text](./ss.png)
 
